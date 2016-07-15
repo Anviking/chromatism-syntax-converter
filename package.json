@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "babel-version": "babel --version"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1"
+  },
+  "name": "chromatism-language-converter",
+  "version": "0.1.0",
+  "description": "Convert highlight.js language definitions for use with Chromatism",
+  "main": "index.js",
+  "dependencies": {},
+  "author": "Johannes Lund",
+  "license": "MIT"
+}
